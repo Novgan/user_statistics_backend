@@ -4,10 +4,10 @@ In the project directory, you can run:
 
 Make sure you have Node.js installed.
 
- `git clone https://github.com/Novgan/user_statistics_backend.git
-  cd user_statistics_backend`
- `npm install`
- `git clone https://github.com/Novgan/user_statistics_backend.git`
+### `git clone https://github.com/Novgan/user_statistics_backend.git`
+### `cd user_statistics_backend`
+### `npm install`
+### `git clone https://github.com/Novgan/user_statistics_backend.git`
 
 ### `npm start`
 
